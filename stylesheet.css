@@ -1,0 +1,30 @@
+.intro {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+	color: red;
+}
+.title{
+	float:left;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: black
+}
+
+.direc_head {
+    text-align: center;
+	font-family:Times;
+    color:black;
+    font-size:23px;	
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+li {
+     font-family: Cursive;
+    color:blue;
+}
